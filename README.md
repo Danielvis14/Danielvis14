@@ -1,4 +1,4 @@
-<div align="center">
+<div style="display: inline_block" align="center">
  ## Bem-vindo(a) ao meu Perfil! 😁
 </div>
  <div align="center">
