@@ -1,6 +1,7 @@
-# 
-## Bem-vindo(a) ao meu Perfil! 😁
- <div style="display: inline_block" align="center">
+<div align="center">
+ ## Bem-vindo(a) ao meu Perfil! 😁
+</div>
+ <div align="center">
    <a href="https://github.com/Danielvis14">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielvis14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielvis14&layout=compact&langs_count=6&theme=tokyonight"/>
