@@ -17,9 +17,10 @@
  
  <br>
  <div style="display: inline_block" align="center">
-  ###  ### Para entrar em contato é só me procurar nas Redes abaixo!
  
-<div> 
+  ### Para entrar em contato é só me procurar nas Redes abaixo! 
+ 
+</div> 
   
 
   <a href="https://www.linkedin.com/in/daniel-de-oliveira-9b3710158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
